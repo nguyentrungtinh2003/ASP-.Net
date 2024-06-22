@@ -1,0 +1,30 @@
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\bin\Debug\net8.0\Buổi 4-UploadFile.staticwebassets.runtime.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\bin\Debug\net8.0\Buổi 4-UploadFile.exe
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\bin\Debug\net8.0\Buổi 4-UploadFile.deps.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\bin\Debug\net8.0\Buổi 4-UploadFile.runtimeconfig.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\bin\Debug\net8.0\Buổi 4-UploadFile.dll
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\bin\Debug\net8.0\Buổi 4-UploadFile.pdb
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\Buổi 4-UploadFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\Buổi 4-UploadFile.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\Buổi 4-UploadFile.AssemblyInfo.cs
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\Buổi 4-UploadFile.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\Buổi 4-UploadFile.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\Buổi 4-UploadFile.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\Buổi 4-UploadFile.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.Buổi 4-UploadFile.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.build.Buổi 4-UploadFile.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Buổi 4-UploadFile.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Buổi 4-UploadFile.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\scopedcss\bundle\Buổi 4-UploadFile.styles.css
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\scopedcss\projectbundle\Buổi 4-UploadFile.bundle.scp.css
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\Buổi 4-UploadFile.dll
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\refint\Buổi 4-UploadFile.dll
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\Buổi 4-UploadFile.pdb
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\Buổi 4-UploadFile.genruntimeconfig.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\ref\Buổi 4-UploadFile.dll

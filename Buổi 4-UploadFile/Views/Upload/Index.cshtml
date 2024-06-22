@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Upload";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Demo Upload File</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container mt-5">
+    <form asp-controller="Upload" asp-action="Upload" enctype="multipart/form-data" method="post" class="form-inline">
+        <div class="form-group mb-2">
+            <label for="fileUpload" class="sr-only">Upload File</label>
+            <input type="file" class="form-control-file" id="fileUpload" name="files" multiple>
+        </div>
+        <button type="submit" class="btn btn-primary mb-2">Upload</button>
+    </form>
+
+    @if (ViewBag.Message != null)
+    {
+        <div class="alert alert-info mt-3">@ViewBag.Message</div>
+    }
+</div>
