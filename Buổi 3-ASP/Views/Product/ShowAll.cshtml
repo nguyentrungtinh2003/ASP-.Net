@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Products";
+    ViewData["Heading"] = "Product List";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="text-center my-4">
+            <h1 class="display-4">Welcome</h1>
+            <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+        </div>
+
+        <h1 class="my-4">@ViewData["Heading"]</h1>
+
+        <!-- Add Product Button -->
+        <div class="mb-3">
+            <a href="@Url.Action("AddProduct", "Product")" class="btn btn-primary">Add Product</a>
+        </div>
+
+        <table class="table table-bordered table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <td>@p.ID</td>
+                        <td>@p.Name</td>
+                        <td>@p.Price</td>
+                        <td>
+                            <a href="@Url.Action("EditProduct", "Product", new { id = p.ID })" class="btn btn-warning btn-sm">Edit</a>
+                            <a href="@Url.Action("DeleteProduct", "Product", new { id = p.ID })" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

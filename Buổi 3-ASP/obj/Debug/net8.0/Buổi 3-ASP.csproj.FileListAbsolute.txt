@@ -1,0 +1,30 @@
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\bin\Debug\net8.0\Buổi 3-ASP.staticwebassets.runtime.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\bin\Debug\net8.0\Buổi 3-ASP.exe
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\bin\Debug\net8.0\Buổi 3-ASP.deps.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\bin\Debug\net8.0\Buổi 3-ASP.runtimeconfig.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\bin\Debug\net8.0\Buổi 3-ASP.dll
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\bin\Debug\net8.0\Buổi 3-ASP.pdb
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\Buổi 3-ASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\Buổi 3-ASP.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\Buổi 3-ASP.AssemblyInfo.cs
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\Buổi 3-ASP.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\Buổi 3-ASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\Buổi 3-ASP.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\Buổi 3-ASP.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\staticwebassets\msbuild.Buổi 3-ASP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\staticwebassets\msbuild.build.Buổi 3-ASP.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Buổi 3-ASP.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Buổi 3-ASP.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\scopedcss\bundle\Buổi 3-ASP.styles.css
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\scopedcss\projectbundle\Buổi 3-ASP.bundle.scp.css
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\Buổi 3-ASP.dll
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\refint\Buổi 3-ASP.dll
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\Buổi 3-ASP.pdb
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\Buổi 3-ASP.genruntimeconfig.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 3-ASP\obj\Debug\net8.0\ref\Buổi 3-ASP.dll
