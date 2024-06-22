@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Kết Quả";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 text-center">
+            <h1 class="display-4">Kết Quả</h1>
+            <div class="card">
+                <div class="card-body">
+                    <p class="card-text"><strong>Tên:</strong> @ViewBag.Name</p>
+                    <p class="card-text"><strong>Năm sinh:</strong> @(DateTime.Now.Year - ViewBag.BirthYear)</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

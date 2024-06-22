@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Calculator";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form method="post" asp-controller="Demo" asp-action="Result">
+                <div class="form-group">
+                    <label for="number1">Số thứ nhất</label>
+                    <input type="number" class="form-control" id="number1" name="Number1" placeholder="Nhập số thứ nhất" required>
+                </div>
+                <div class="form-group">
+                    <label for="number2">Số thứ hai</label>
+                    <input type="number" class="form-control" id="number2" name="Number2" placeholder="Nhập số thứ hai" required>
+                </div>
+                <div class="form-group">
+                    <label for="operation">Phép tính</label>
+                    <select class="form-control" id="operation" name="Operation" required>
+                        <option value="Cộng">Cộng</option>
+                        <option value="Trừ">Trừ</option>
+                        <option value="Nhân">Nhân</option>
+                        <option value="Chia">Chia</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-primary">Tính</button>
+            </form>
+        </div>
+    </div>
+</div>

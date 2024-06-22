@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Nhập Thông Tin Của Bạn</h1>
+    
+</div>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form method="post" asp-action="KetQua" asp-controller="Demo">
+                <div class="form-group mt-4">
+                    <label for="name">Tên</label>
+                    <input type="text" class="form-control mt-2" id="name" name="name" placeholder="Nhập tên của bạn">
+                </div>
+                <div class="form-group mt-4">
+                    <label for="birthYear">Năm sinh</label>
+                    <input type="number" class="form-control mt-2" id="birthYear" name="birthYear" placeholder="Nhập năm sinh của bạn">
+                </div>
+                <button type="submit" class="btn btn-primary mt-4">Gửi</button>
+            </form>
+        </div>
+    </div>
+</div>
