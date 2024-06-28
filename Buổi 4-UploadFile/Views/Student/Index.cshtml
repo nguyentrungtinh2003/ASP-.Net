@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Đọc/Ghi file";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="my-4">Đọc/ghi file</h2>
+<form asp-action="Manage" asp-controller="Student" method="post" class="form">
+    <div class="form-group">
+        <label for="studentId">Mã sinh viên</label>
+        <input type="text" class="form-control" id="studentId" name="Id" value="@ViewBag.Id" />
+    </div>
+    <div class="form-group">
+        <label for="studentName">Họ và tên</label>
+        <input type="text" class="form-control" id="studentName" name="Name" value="@ViewBag.Name" />
+    </div>
+    <div class="form-group">
+        <label for="studentMarks">Điểm trung bình</label>
+        <input type="text" class="form-control" id="studentMarks" name="Marks" value="@ViewBag.Marks" />
+    </div>
+    <hr />
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary" name="command" value="Lưu File Text">Lưu File Text</button>
+        <button type="submit" class="btn btn-secondary" name="command" value="Mở File Text">Mở File Text</button>
+        <button type="submit" class="btn btn-primary" name="command" value="Lưu File Json">Lưu File Json</button>
+        <button type="submit" class="btn btn-secondary" name="command" value="Mở File Json">Mở File Json</button>
+    </div>
+</form>
+<h4 class="mt-4">@ViewBag.Message</h4>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Buổi 4-UploadFile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0202a6e25e13e048680188b9c7db00bfdbb47fd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Buổi 4-UploadFile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Buổi 4-UploadFile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

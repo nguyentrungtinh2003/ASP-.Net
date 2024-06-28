@@ -28,3 +28,4 @@ C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug
 C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\Buổi 4-UploadFile.pdb
 C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\Buổi 4-UploadFile.genruntimeconfig.cache
 C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\ref\Buổi 4-UploadFile.dll
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 4-UploadFile\obj\Debug\net8.0\Buổi 4-UploadFile.sourcelink.json

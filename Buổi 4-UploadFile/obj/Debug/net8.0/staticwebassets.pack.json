@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\Buổi 4-UploadFile.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\admin\\source\\repos\\TrungTinh_NhapThongTin\\Buổi 4-UploadFile\\wwwroot\\Student.json",
+      "PackagePath": "staticwebassets\\Student.json"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\TrungTinh_NhapThongTin\\Buổi 4-UploadFile\\wwwroot\\Student.txt",
+      "PackagePath": "staticwebassets\\Student.txt"
+    },
+    {
       "Id": "C:\\Users\\admin\\source\\repos\\TrungTinh_NhapThongTin\\Buổi 4-UploadFile\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -243,6 +251,10 @@
     {
       "Id": "C:\\Users\\admin\\source\\repos\\TrungTinh_NhapThongTin\\Buổi 4-UploadFile\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\TrungTinh_NhapThongTin\\Buổi 4-UploadFile\\wwwroot\\uploads\\Basic Data Report.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Basic Data Report.pdf"
     },
     {
       "Id": "C:\\Users\\admin\\source\\repos\\TrungTinh_NhapThongTin\\Buổi 4-UploadFile\\wwwroot\\uploads\\report.pdf",
