@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Demo Buổi 5</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<h1>View Demo</h1>
+
+@if(3>2) {
+    <div>Đúng</div>
+    @: Đây là kết quả
+}else {
+    <div>Sai</div>
+}
+
+@for (int i = 1;i<5;i++) {
+    <div>@i</div>
+}
+<!--Ghi chu client side-->
+@* Ghi chú trong server side*@
+
+@{
+    string name = "Nguyen Trung Tinh";
+    <div>Tên bạn là : @name</div>
+    <div>Ket qua : @(3+5)</div>
+}
