@@ -1,0 +1,31 @@
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\bin\Debug\net8.0\Buổi 6-ASP-Validation.staticwebassets.runtime.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\bin\Debug\net8.0\Buổi 6-ASP-Validation.exe
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\bin\Debug\net8.0\Buổi 6-ASP-Validation.deps.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\bin\Debug\net8.0\Buổi 6-ASP-Validation.runtimeconfig.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\bin\Debug\net8.0\Buổi 6-ASP-Validation.dll
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\bin\Debug\net8.0\Buổi 6-ASP-Validation.pdb
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\Buổi 6-ASP-Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\Buổi 6-ASP-Validation.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\Buổi 6-ASP-Validation.AssemblyInfo.cs
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\Buổi 6-ASP-Validation.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\Buổi 6-ASP-Validation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\Buổi 6-ASP-Validation.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\Buổi 6-ASP-Validation.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\Buổi 6-ASP-Validation.sourcelink.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\staticwebassets\msbuild.Buổi 6-ASP-Validation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\staticwebassets\msbuild.build.Buổi 6-ASP-Validation.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Buổi 6-ASP-Validation.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Buổi 6-ASP-Validation.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\scopedcss\bundle\Buổi 6-ASP-Validation.styles.css
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\scopedcss\projectbundle\Buổi 6-ASP-Validation.bundle.scp.css
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\Buổi 6-ASP-Validation.dll
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\refint\Buổi 6-ASP-Validation.dll
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\Buổi 6-ASP-Validation.pdb
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\Buổi 6-ASP-Validation.genruntimeconfig.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 6-ASP-Validation\obj\Debug\net8.0\ref\Buổi 6-ASP-Validation.dll

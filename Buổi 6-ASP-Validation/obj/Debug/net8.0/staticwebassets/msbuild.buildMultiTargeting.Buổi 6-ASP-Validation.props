@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Buổi 6-ASP-Validation.props" />
+</Project>
