@@ -1,0 +1,31 @@
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\Buổi 7-Jquery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\Buổi 7-Jquery.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\Buổi 7-Jquery.AssemblyInfo.cs
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\Buổi 7-Jquery.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\Buổi 7-Jquery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\Buổi 7-Jquery.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\Buổi 7-Jquery.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\Buổi 7-Jquery.sourcelink.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\bin\Debug\net8.0\Buổi 7-Jquery.staticwebassets.runtime.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\bin\Debug\net8.0\Buổi 7-Jquery.exe
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\bin\Debug\net8.0\Buổi 7-Jquery.deps.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\bin\Debug\net8.0\Buổi 7-Jquery.runtimeconfig.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\bin\Debug\net8.0\Buổi 7-Jquery.dll
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\bin\Debug\net8.0\Buổi 7-Jquery.pdb
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\staticwebassets\msbuild.Buổi 7-Jquery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\staticwebassets\msbuild.build.Buổi 7-Jquery.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Buổi 7-Jquery.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Buổi 7-Jquery.props
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\scopedcss\bundle\Buổi 7-Jquery.styles.css
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\scopedcss\projectbundle\Buổi 7-Jquery.bundle.scp.css
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\Buổi 7-Jquery.dll
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\refint\Buổi 7-Jquery.dll
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\Buổi 7-Jquery.pdb
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\Buổi 7-Jquery.genruntimeconfig.cache
+C:\Users\admin\source\repos\TrungTinh_NhapThongTin\Buổi 7-Jquery\obj\Debug\net8.0\ref\Buổi 7-Jquery.dll

@@ -1,0 +1,111 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Register Member";
+}
+
+<h1 className="text-center mt-4">Register Menber</h1>
+<div className="container mt-2">
+    ﻿<form id="form1" method="post" enctype="multipart/form-data">
+        <h2 class="text-center text-danger">
+            Đăng ký Thành viên
+        </h2>
+        <div class="row m-1">
+            <div class="col-4 col-md-3 text-right">Mã sinh viên</div>
+            <div class="col-8 col-md-9">
+                <input name="MaSV" placeholder="Mã sinh viên" class="w-100" />
+            </div>
+        </div>
+        <div class="row m-1">
+            <div class="col-4 col-md-3 text-right">Họ tên</div>
+            <div class="col-8 col-md-9">
+                <input name="HoTen" placeholder="Họ tên Sinh viên" class="w-100" />
+            </div>
+        </div>
+        <div class="row m-1">
+            <div class="col-4 col-md-3 text-right">Ngày sinh</div>
+            <div class="col-8 col-md-9">
+                <input name="NgaySinh" placeholder="Ngày sinh Sinh viên" class="w-100" />
+            </div>
+        </div>
+        <div class="row m-1">
+            <div class="col-4 col-md-3 text-right">Email</div>
+            <div class="col-8 col-md-9">
+                <input name="Email" placeholder="Email" class="w-100" />
+            </div>
+        </div>
+        <div class="row m-1">
+            <div class="col-4 col-md-3 text-right">Xác nhận email</div>
+            <div class="col-8 col-md-9">
+                <input name="XacNhanEmail" placeholder="Xác nhận email" class="w-100" />
+            </div>
+        </div>
+        <div class="row m-1">
+            <div class="col-4 col-md-3 text-right">Số tài khoản</div>
+            <div class="col-8 col-md-9">
+                <input name="SoTaiKhoan" placeholder="Số tài khoản" class="w-100" />
+            </div>
+        </div>
+        <div class="row m-1">
+            <div class="col-4 col-md-3 text-right">Hình</div>
+            <div class="col-8 col-md-9">
+                <input type="file" name="Hinh" />
+            </div>
+        </div>
+        <div class="row m-1">
+            <div class="col-4 col-md-3 text-right">Điểm</div>
+            <div class="col-8 col-md-9">
+                <input name="Diem" placeholder="Điểm" class="w-100" />
+            </div>
+        </div>
+        <div class="row m-1">
+            <div class="col-4 col-md-3 text-right">Hệ số</div>
+            <div class="col-8 col-md-9">
+                <input name="HeSo" placeholder="Hệ số" class="w-100" />
+            </div>
+        </div>
+        <div class="row m-1">
+            <div class="col-4 col-md-3 text-right">Mã bảo mật</div>
+            <div class="col-8 col-md-9">
+                <span></span>
+                <input name="MaBaoMat" placeholder="Mã bảo mật" class="w-100" />
+            </div>
+        </div>
+        <div class="row m-1">
+            <div class="col-4 col-md-3 text-right">Thông tin thêm</div>
+            <div class="col-8 col-md-9">
+                <textarea name="ThongTinThem" class="w-100"></textarea>
+            </div>
+        </div>
+        <div class="row m-1">
+            <div class="col-4 col-md-3 text-right"></div>
+            <div class="col-8 col-md-9">
+                <button class="btn btn-success">Đăng ký</button>
+                <button class="btn btn-danger" type="reset">Nhập lại</button>
+            </div>
+        </div>
+    </form>
+    
+</div>
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+
+    <script>
+        $(document).ready(function () {
+            $("#form1").validate({
+                rules: {
+                    MaSV: { required: true, minlength: 6 }
+                    // Bổ sung các rules cho các trường khác nếu cần
+                },
+                messages: {
+                    MaSV: { 
+                        required: "Vui lòng nhập mã sinh viên",
+                        minlength: "Mã sinh viên phải có ít nhất 6 ký tự"
+                    }
+                    // Bổ sung các messages cho các trường khác nếu cần
+                }
+            });
+        });
+    </script>
+    }
