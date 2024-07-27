@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Buổi 8-JqueryValidation/1.0.0": {
+        "runtime": {
+          "Buổi 8-JqueryValidation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buổi 8-JqueryValidation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

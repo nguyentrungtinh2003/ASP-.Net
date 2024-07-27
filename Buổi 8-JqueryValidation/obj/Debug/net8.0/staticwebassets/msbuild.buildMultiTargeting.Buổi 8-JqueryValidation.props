@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Buổi 8-JqueryValidation.props" />
+</Project>
