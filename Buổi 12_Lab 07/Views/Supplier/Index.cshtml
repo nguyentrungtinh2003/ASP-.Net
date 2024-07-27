@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Buổi_12_Lab_07.Models.Supplier>
+
+@{
+    ViewData["Title"] = "Supplier List";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container mt-4">
+        <h1>@ViewData["Title"]</h1>
+<button class="btn btn-primary">
+            <a href="@Url.Action("Create") class="">Create</a>
+</button>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Logo</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var supplier in Model)
+                {
+                    <tr>
+                        <td>@supplier.Id</td>
+                        <td>@supplier.Name</td>
+                        <td>
+                            
+                                <img src="~/images/@supplier.Logo" alt="@supplier.Name" />
+                            
+                            
+                        </td>
+                        <td>@supplier.Email</td>
+                        <td>@supplier.Phone</td>
+                        <td>
+                            <a href="@Url.Action("Details", "Supplier", new { id = supplier.Id })" class="btn btn-info btn-sm">View</a>
+                            <a href="@Url.Action("Edit", "Supplier", new { id = supplier.Id })" class="btn btn-warning btn-sm">Edit</a>
+                            <a href="@Url.Action("Delete", "Supplier", new { id = supplier.Id })" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this item?');">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
