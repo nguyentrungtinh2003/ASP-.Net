@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+    <style>
+        /* Custom styles */
+        body {
+            background-color: #f8f9fa; /* Màu nền */
+        }
+
+        #myheader {
+            background-color: #343a40; /* Màu header */
+        }
+
+        #myfooter {
+            background-color: #343a40; /* Màu footer */
+            color: white; /* Màu chữ footer */
+        }
+
+        #navbarSupportedContent .nav-link {
+            color: white; /* Màu chữ menu */
+        }
+
+        .card {
+            border: none; /* Bỏ viền card */
+            background-color: transparent; /* Nền trong suốt */
+        }
+
+        .list-group-item > a {
+            text-decoration: none; /* Thiết lập không gạch chân cho các liên kết trong list-group-item */
+        }
+
+            .list-group-item > a:hover {
+                color: red; /* Thay đổi màu chữ khi rê chuột qua liên kết */
+            }
+    </style>
+</head>
+<body>
+    <div class="">
+        <!-- Header -->
+        <header id="myheader">
+            <nav class="navbar navbar-expand-lg navbar-dark">
+                <a class="navbar-brand" href="#">
+                    <img src="your-logo.png" width="30" height="30" class="d-inline-block align-top" alt="Logo">
+                    Header
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Link</a>
+                        </li>
+                        
+                    </ul>
+                    
+                </div>
+            </nav>
+        </header>
+
+        <!-- Main Content -->
+        <div class="row mt-3">
+            <!-- Sidebar -->
+            <aside id="left_menu" class="col-md-3">
+                <ul class="list-group">
+                    <li class="list-group-item "><a asp-action="Index" asp-controller="Products" asp-route-category="DT">Điện thoại</a></li>
+                    <li class="list-group-item "><a asp-action="Index" asp-controller="Products" asp-route-category="LT">LapTOP</a></li>
+                    <li class="list-group-item "><a asp-action="Index" asp-controller="Products" asp-route-category="TV">TV</a></li>
+                    <li class="list-group-item "><a asp-action="Index" asp-controller="Products" asp-route-category="ML">Máy lạnh</a></li>
+
+                </ul>
+            </aside>
+
+            <!-- Main Content Area -->
+            <main class="col-md-9">
+                @RenderBody()
+            </main>
+        </div>
+
+        <!-- Footer -->
+        <footer id="myfooter" class="mt-3">
+            <div class="card text-center">
+                <div class="card-header">
+                    Featured
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">trungtinhn300@gmail.com</h5>
+                    <p class="card-text">Footer content</p>
+                </div>
+                <div class="card-footer text-muted">
+                    Home
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
